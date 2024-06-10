@@ -55,4 +55,4 @@ python manage.py migrate
 .\venv\scripts\activate  
 python manage.py createsuperuser
 python manage.py runserver
-
+Github link : https://github.com/kentigerc/class-manager.git
